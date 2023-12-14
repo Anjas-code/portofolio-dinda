@@ -7,6 +7,7 @@ export default function Home() {
                     <p className="text-[64px] leading-[44px] font-semibold">Hello, I'm Adinda</p>
                 </div>
             </div>
+            
         </div>
     );
 }
